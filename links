@@ -15,6 +15,13 @@ https://medium.com/analytics-vidhya/different-type-of-feature-engineering-encodi
 Dimenssionality reduction techniques (Curse of dimenssionality)
 
 https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/
+https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/
+
+Feature Selection methods:
+https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+
+Regularization/Normalization/Gaussian normalisation
 
 
-Regularization
+Improving model performance tecniques(cross validation)
+https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/
